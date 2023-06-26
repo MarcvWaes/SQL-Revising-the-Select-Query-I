@@ -8,7 +8,7 @@
 ![vli1lpls zuo](https://github.com/MarcvWaes/practice-SQL---1/assets/120553175/240d70cc-0219-438f-9769-4aba84526991)
 
 # Solution:
-- Select *
+- SELECT *
 - FROM CITY
 - WHERE COUNTRYCODE = "USA" AND POPULATION > 100000
 
